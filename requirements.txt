@@ -1,7 +1,7 @@
 
 # Framework Web Application:
 
-Django==6.0.3
+Django==6.0.5
 
 
 
