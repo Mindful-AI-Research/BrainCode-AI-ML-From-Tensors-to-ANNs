@@ -27,7 +27,7 @@ keras==3.13.2
 
 
 # Natural Language Processing Libraries:
-nltk==3.9.3
+nltk==3.9.4
 spacy==3.8.7
 
 # Web Scraping Libraries:
