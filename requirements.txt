@@ -27,6 +27,8 @@ keras==3.13.2
 
 
 # Natural Language Processing Libraries:
+
+spacy==3.8.11
 nltk==3.9.4
 spacy==3.8.7
 
