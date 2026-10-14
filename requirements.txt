@@ -6,7 +6,7 @@ Django==6.0.5
 
 
 # Data Manipulation Libraries:
-numpy==2.4.2
+numpy==2.4.3
 pandas==2.3.3
 
 # Data Visualization Libraries:
