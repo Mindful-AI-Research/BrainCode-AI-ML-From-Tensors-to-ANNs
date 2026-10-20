@@ -28,14 +28,15 @@ keras==3.15.0
 
 
 # Natural Language Processing Libraries:
+spacy==3.8.11
 nltk==3.10.3
-spacy==3.8.7
+
 
 # Web Scraping Libraries:
 beautifulsoup4==4.14.3
 requests==2.33.0
 
-# Database Libraries:
+# Databas Libraries:
 sqlalchemy==2.0.48
 psycopg2-binary==2.9.11
 
