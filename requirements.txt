@@ -16,7 +16,7 @@ seaborn==0.13.2
 
 # Data Analysis Libraries:
 
-scikit-learn==1.7.2
+scikit-learn==1.9.1
 scipy==1.16.2
 
 
