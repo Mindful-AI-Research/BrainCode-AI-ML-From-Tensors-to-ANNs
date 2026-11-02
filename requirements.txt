@@ -6,8 +6,8 @@ Django==6.0.8
 
 
 # Data Manipulation Libraries:
-pandas==3.0.1
-pandas==2.3.3
+pandas==3.1.0
+pandas==3.1.0
 
 
 # Data Visualization Libraries:
